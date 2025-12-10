@@ -1,0 +1,7 @@
+{
+  "name": "devops-toolkit-cli",
+  "version": "1.0.0",
+  "description": "Production module for devops-toolkit-cli",
+  "author": "Ayush Chandra",
+  "license": "MIT"
+}
