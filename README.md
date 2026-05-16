@@ -8,3 +8,4 @@ MIT © Ayush Chandra
 - [May 04, 2026] Feature upgrade batch 1
 - [May 04, 2026] Feature upgrade batch 2
 - [May 16, 2026] Feature upgrade batch 3
+- [May 16, 2026] Feature upgrade batch 4
